@@ -1,0 +1,53 @@
+
+
+User : hello
+Friday : Hello, Sir!
+User : open YouTube open YouTube
+Friday : Opening Youtube...
+User : close YouTube
+Friday : I am Closing, Good bye.
+
+User : hello
+Friday : Hello, !
+User : open YouTube
+Friday : Opening Youtube...
+User : close
+Friday : I am Closing, Good bye.
+
+User : hello
+Friday : Hello, !
+User : close
+Friday : I am Closing, Good bye.
+
+User : hello hello hello
+Friday : Hello, !
+User : open YouTube
+Friday : Opening Youtube...
+User : close
+Friday : I am Closing, Good bye.
+
+User : hello
+Friday : Hello, !
+User : how are you
+Friday : None of the cases matches the commmand.
+User : open YouTube
+Friday : Opening Youtube...
+User : close
+Friday : I am Closing, Good bye.
+
+User : hello
+Friday : Hello, !
+User : open YouTube
+Friday : Opening Youtube...
+User : open Google
+Friday : None of the cases matches the commmand.
+User : search Google
+Friday : Say What you want to search...
+Friday : searching...Delhi Universityon Google
+User : Delhi University
+User : open Amazon
+Friday : Say What you want to buy...
+Friday : searching...earphones on amazon
+User : earphones
+User : han Sar aise hi Sar ismein yah se closed
+Friday : I am Closing, Good bye.
